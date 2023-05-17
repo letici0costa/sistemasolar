@@ -1,0 +1,41 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./img/universo1.webp);
+}
+
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 20px;
+    color: rgb(255, 252, 252);
+    font-family: 'Pacifico', cursive;
+}
+
+.foto1 img{
+    height: 260px;
+    width: 560px;
+    padding-left: 200px;
+    margin-top: 60px;
+}
+.foto2 img{
+    height: 260px;
+    width: 560px;
+    padding-left: 200px;
+    margin-top: 60px;
+}
+.foto3 img{
+    height: 260px;
+    width: 560px;
+    padding-left: 200px;
+    margin-top: 60px;
+}
